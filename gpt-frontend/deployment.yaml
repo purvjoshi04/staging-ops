@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: purvjoshi4/projects:gpt3-8068645ab58386280515986d2e4dae68f4641548
+          image: purvjoshi4/projects:gpt3-35eeb1be5e71feb2592f9fba92aea05cf8095069
           ports:
             - containerPort: 3000
           env:
